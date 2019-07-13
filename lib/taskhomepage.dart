@@ -57,12 +57,7 @@ class _TaskHomePageState extends State<TaskHomePage> {
       },
     );
   }
-
-  Widget _buildChart(BuildContext context, List<Task> snapshot) {
-    return _buildChartItem(context, snapshot);
-  }
-
-  Widget _buildChartItem(BuildContext context, List<Task> taskdata) {
+  Widget _buildChart(BuildContext context, List<Task> taskdata) {
     mydata = taskdata;
     _generateData(mydata);
     return Padding(

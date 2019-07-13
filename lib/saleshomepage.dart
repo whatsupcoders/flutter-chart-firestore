@@ -57,12 +57,7 @@ class _SalesHomePageState extends State<SalesHomePage> {
       },
     );
   }
-
-  Widget _buildChart(BuildContext context, List<Sales> snapshot) {
-    return _buildChartItem(context, snapshot);
-  }
-
-  Widget _buildChartItem(BuildContext context, List<Sales> saledata) {
+  Widget _buildChart(BuildContext context, List<Sales> saledata) {
     mydata = saledata;
     _generateData(mydata);
     return Padding(
