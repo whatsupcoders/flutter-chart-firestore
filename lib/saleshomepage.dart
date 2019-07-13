@@ -20,7 +20,7 @@ class _SalesHomePageState extends State<SalesHomePage> {
         domainFn: (Sales sales, _) => sales.saleYear.toString(),
         measureFn: (Sales sales, _) => sales.saleVal,
         colorFn: (Sales sales, _) =>
-            charts.ColorUtil.fromDartColor(Color(0xfff18226)),
+            charts.ColorUtil.fromDartColor(Color(int.parse(sales.colorVal))),
         id: 'Sales',
         data: mydata,
         labelAccessorFn: (Sales row, _) => "${row.saleYear}",

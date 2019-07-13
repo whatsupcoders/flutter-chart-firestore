@@ -11,11 +11,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Firestore Chart',
       theme: ThemeData(
-        primaryColor: Color(0xff543B7A),
-        // primaryColor: Color(0xfff18226),
+         primaryColor: Color(0xff543B7A),
       ),
-      home: TaskHomePage(),
-       // home:SalesHomePage(),
+        //home: TaskHomePage(),
+        home:SalesHomePage(),
     );
   }
 }
