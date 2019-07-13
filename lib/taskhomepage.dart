@@ -21,7 +21,7 @@ class _TaskHomePageState extends State<TaskHomePage> {
         measureFn: (Task task, _) => task.taskVal,
         colorFn: (Task task, _) =>
             charts.ColorUtil.fromDartColor(Color(int.parse(task.colorVal))),
-        id: 'NewYork',
+        id: 'tasks',
         data: mydata,
         labelAccessorFn: (Task row, _) => "${row.taskVal}",
       ),
@@ -37,7 +37,7 @@ class _TaskHomePageState extends State<TaskHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('NewYork')),
+      appBar: AppBar(title: Text('Tasks')),
       body: _buildBody(context),
     );
   }
@@ -89,11 +89,11 @@ class _TaskHomePageState extends State<TaskHomePage> {
                         horizontalFirst: false,
                         desiredMaxRows: 2,
                         cellPadding:
-                            new EdgeInsets.only(right: 4.0, bottom: 4.0),
+                            new EdgeInsets.only(right: 4.0, bottom: 4.0,top:4.0),
                         entryTextStyle: charts.TextStyleSpec(
                             color: charts.MaterialPalette.purple.shadeDefault,
                             fontFamily: 'Georgia',
-                            fontSize: 11),
+                            fontSize: 18),
                       )
                     ],
                     defaultRenderer: new charts.ArcRendererConfig(
