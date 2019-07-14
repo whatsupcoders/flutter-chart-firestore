@@ -1,7 +1,7 @@
 # FlutterChartFirestore
 
 Flutter Tutorial - Flutter Charts+Firestore
-Flutter Tutorial -  Flutter Charts+Firestore Video series can be watched here https://www.youtube.com/watch?v=GwDMwnELTP4
+Flutter Tutorial -  Flutter Charts+Firestore Video series can be watched here https://youtu.be/HGkbPrTSndM
 
 ## Getting Started
 
