@@ -9,7 +9,7 @@ In this project you will see how to create charts using charts_flutter plugin in
  
 For more details regarding the Firestore setup , check this video - https://youtu.be/R12ks4yDpMM
 
-PLEASE UDPATE THE google-services.json files as per your database account.
+PLEASE UPDATE THE google-services.json files as per your database account.
 
 <div style="text-align: center">
     <table>
