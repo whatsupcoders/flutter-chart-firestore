@@ -27,12 +27,7 @@ class _SalesHomePageState extends State<SalesHomePage> {
       ),
     );
   }
-
-  @override
-  void initState() {
-    super.initState();
-    mydata = mydata;
-  }
+  
 
   @override
   Widget build(BuildContext context) {

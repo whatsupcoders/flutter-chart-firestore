@@ -29,12 +29,6 @@ class _TaskHomePageState extends State<TaskHomePage> {
   }
 
   @override
-  void initState() {
-    super.initState();
-    mydata = mydata;
-  }
-
-  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text('Tasks')),
