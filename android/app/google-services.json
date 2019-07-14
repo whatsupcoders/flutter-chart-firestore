@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "132706780702",
-    "firebase_url": "https://flutter-chart-json-e27e8.firebaseio.com",
-    "project_id": "flutter-chart-json-e27e8",
-    "storage_bucket": "flutter-chart-json-e27e8.appspot.com"
+    "project_number": "ADD THE PROJECT NUMBER",
+    "firebase_url": "ADD THE FIREBASE URL",
+    "project_id": "ADD THE PROJECT ID",
+    "storage_bucket": "**************"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:132706780702:android:9ef488e5df96bcfa",
+        "mobilesdk_app_id": "**************",
         "android_client_info": {
-          "package_name": "com.example.flutter_chart_json"
+          "package_name": "**************"
         }
       },
       "oauth_client": [
         {
-          "client_id": "132706780702-mdkh0umosimlm5lm2e6ehm33dd070uot.apps.googleusercontent.com",
+          "client_id": "**************",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAJo8C_l2U2hshDn2KzioCv8aWj54mDjPk"
+          "current_key": "**************"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "132706780702-mdkh0umosimlm5lm2e6ehm33dd070uot.apps.googleusercontent.com",
+              "client_id": "**************",
               "client_type": 3
             }
           ]

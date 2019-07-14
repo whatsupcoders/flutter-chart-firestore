@@ -13,8 +13,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
          primaryColor: Color(0xff543B7A),
       ),
-        //home: TaskHomePage(),
-        home:SalesHomePage(),
+        home: TaskHomePage(),
+        //home:SalesHomePage(),
     );
   }
 }
