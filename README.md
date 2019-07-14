@@ -1,16 +1,37 @@
-# flutter_chart_json
+# FlutterChartFirestore
 
-A new Flutter project.
+Flutter Tutorial - Flutter Charts+Firestore
+Flutter Tutorial -  Flutter Charts+Firestore Video series can be watched here https://www.youtube.com/watch?v=GwDMwnELTP4
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this project you will see how to create charts using charts_flutter plugin in the chart data is retrieved from the Firestore.
+ 
+For more details regarding the Firestore setup , check this video - https://youtu.be/R12ks4yDpMM
 
-A few resources to get you started if this is your first Flutter project:
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/flutter-chart-firestore/blob/master/assets/Screenshot_1563054924.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/flutter-chart-firestore/blob/master/assets/Screenshot_1563057447.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/flutter-chart-firestore/blob/master/assets/chart_task_gif.gif" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/flutter-chart-firestore/blob/master/assets/charts_sales_gif.gif" width="200"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+FOLLOW ME HERE:
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
